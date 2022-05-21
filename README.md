@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Santiago
 * ✉️  You can contact me at [ricardo.quiroga@mercadolibre.cl](mailto:ricardo.quiroga@mercadolibre.cl)
-* 🧠  I'm learning IaaS
+* 🧠  I'm learning Software Architecture and Cloud Computing
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
